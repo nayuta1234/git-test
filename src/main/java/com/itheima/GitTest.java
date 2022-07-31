@@ -19,6 +19,7 @@ public class GitTest {
          System.out.println("hot-fix  fix 提交8...");
          System.out.println("hot-fix  fix 提交st9...");
          System.out.println("hot-fix  fix 提交st10...");
+         System.out.println("hot-fix  fix 提交st11...");
 
     }
 }
